@@ -1,6 +1,6 @@
 # Parkinson's Pose Estimation Dataset
 
-This notebook describes the dataset accompanying the paper: 'Vision-Based Assessment of Parkinsonism and Levodopa-Induced Dyskinesia with Deep Learning Pose Estimation' - Li, Mestre, Fox, Taati (2017).
+This notebook describes the dataset accompanying the paper: <a href="https://arxiv.org/abs/1707.09416">'Vision-Based Assessment of Parkinsonism and Levodopa-Induced Dyskinesia with Deep Learning Pose Estimation'</a> - Li, Mestre, Fox, Taati (2017).
 
 The dataset is available <a href="http://individual.utoronto.ca/BabakTaati/Data/PD/UDysRS_UPDRS_Export.zip">here</a>.
 
