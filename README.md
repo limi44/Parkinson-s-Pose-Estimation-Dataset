@@ -2,7 +2,7 @@
 
 This notebook describes the dataset accompanying the paper: <a href="https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-018-0446-z">'Vision-Based Assessment of Parkinsonism and Levodopa-Induced Dyskinesia with Deep Learning Pose Estimation'</a> - Li, Mestre, Fox, Taati (2018).
 
-The dataset is available <a href="http://individual.utoronto.ca/BabakTaati/Data/PD/UDysRS_UPDRS_Export.zip">here</a>.
+The dataset is available <a href="http://individual.utoronto.ca/BabakTaati/Data/PD/UDysRS_UPDRS_Export.zip">here</a> and is released under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
 
 The data includes all movement trajectories extracted from the videos of Parkinson's assessments using Convolutional Pose Machines (CPM) (https://arxiv.org/abs/1602.00134), as well as the confidence values from CPM. The dataset also includes ground truth ratings of parkinsonism and dyskinesia severity using the UDysRS, UPDRS, and CAPSIT.  
 
